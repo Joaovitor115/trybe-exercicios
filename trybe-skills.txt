@@ -1,7 +1,9 @@
-O que eu vou aprender na Trybe:
-
+O que vou aprender na Trybe!!
+- Aprender
 - Unix
 - Bash
 - Git
-Unix
-Bash
+- HTML
+- CSS
+
+
