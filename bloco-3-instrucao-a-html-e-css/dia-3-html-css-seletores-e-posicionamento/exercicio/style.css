@@ -1,0 +1,74 @@
+
+body{
+
+    background-color: linen;
+    background-image: url(https://i.gifer.com/SFFd.gif);
+    color: ghostwhite;
+    }
+    h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    
+    
+    .english{ 
+    font-size: 25px;
+    }
+    .empatia { 
+    font-size: 20px;}
+    
+    
+    
+    #foto{border-radius: 100%;
+    
+    }
+    .mudar{
+    font-style: initial;
+    }
+    .nome {
+        text-align: center;
+    }
+    #eu { 
+        float: right;
+margin-right: 500px;
+margin-top: 120px;
+     
+    }
+    #foto {
+        border-width: 200px;
+        float: left;
+    padding: 10px;
+    background-color: aliceblue;
+        margin-left: 55px;
+    z-index: 1;
+        
+    }
+    .descricao {
+        display: block;
+    }
+    .resto-perfil {
+        clear: both;
+        margin-left: 60px;
+    
+    }
+    .links {
+     
+        margin-top: 15px;
+        padding: 30px;
+       margin-right: 1000px;
+  background-size: cover;
+        background-image: url(https://browsecat.net/sites/default/files/cool-dark-wallpapers-96404-132717-1715357.png);
+    }
+        
+
+    
+    
+    
+    .habilidades {
+        color: whitesmoke;
+        padding: 30px;
+      margin-right: 1000px;
+      
+      background-size: cover; 
+      background-image: url(https://browsecat.net/sites/default/files/cool-dark-wallpapers-96404-132752-4057238.png);
+    }
